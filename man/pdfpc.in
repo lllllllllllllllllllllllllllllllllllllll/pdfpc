@@ -326,7 +326,7 @@ the Escape key.  Note that while editing a note, the keybindings stop working,
 i.e. you are not able to change slides. These notes are stored in the .pdfpc
 file in a plain text format, easy to edit also from outside the program; see
 the section about the pdfpc format below.  These notes take precedence over the
-native PDF annotations, i.e., if a user-proveded note exists for a given slide,
+native PDF annotations, i.e., if a user-provided note exists for a given slide,
 any PDF annotations on that page will be silently ignored.
 .PP
 Although mixing the
